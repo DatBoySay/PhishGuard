@@ -43,20 +43,37 @@ pip install -r requirements.txt
 python main.py
 
 
-▶️ Try it on Replit
+## 📦 Installation & Usage (Run Locally)
 
+```bash
+# Clone this repo
+git clone https://github.com/DatBoySay/PhishGuard.git
+cd PhishGuard
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # mac/linux
+venv\Scripts\activate      # windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python main.py
+▶️ Try it on Replit
 Run this project instantly in the cloud with one click:
+
 
 Or open the live Replit version directly:
 👉 Live Replit Demo
 
+yaml
+Copy code
 
 ---
 
-### 🔑 Key Things
-- The **first triple backticks** open the bash code block.  
-- The **second triple backticks** (on their own line) close it.  
-- The Replit section is now *outside* that block, so the badge renders properly.
+### 🔑 Key Thing
+- The important line is this one:
 
----
+Copy code
 
