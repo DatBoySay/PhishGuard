@@ -24,24 +24,6 @@ It combines machine learning (TF-IDF + Logistic Regression) with classic securit
 - BeautifulSoup4 + tldextract (security parsing)
 
 ---
-## 📦 Installation & Usage (Run Locally)
-
-```bash
-# Clone this repo
-git clone https://github.com/DatBoySay/PhishGuard.git
-cd PhishGuard
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # mac/linux
-venv\Scripts\activate      # windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python main.py
-
 
 ## 📦 Installation & Usage (Run Locally)
 
@@ -60,11 +42,8 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
-## ▶️ Try it on Replit
-Run this project instantly in the cloud with one click:
+
 
 [![Run on Replit](https://replit.com/badge/github/DatBoySay/PhishGuard)](https://replit.com/github/DatBoySay/PhishGuard)
 
-Or open the live Replit version directly:  
 👉 **[Live Replit Demo](https://replit.com/@savionparks3/PhishGuard)**
-
