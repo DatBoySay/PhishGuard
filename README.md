@@ -60,12 +60,13 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
-▶️ Try it on Replit
+## ▶️ Try it on Replit
 Run this project instantly in the cloud with one click:
 
+[![Run on Replit](https://replit.com/badge/github/DatBoySay/PhishGuard)](https://replit.com/github/DatBoySay/PhishGuard)
 
-Or open the live Replit version directly:
-👉 Live Replit Demo
+Or open the live Replit version directly:  
+👉 **[Live Replit Demo](https://replit.com/@savionparks3/PhishGuard)**
 
 yaml
 Copy code
