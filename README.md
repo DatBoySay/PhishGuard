@@ -42,6 +42,7 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
+---
 ▶️ Try it on Replit
 
 Run this project instantly in the cloud with one click:
