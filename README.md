@@ -53,14 +53,14 @@ Or open the live Replit version directly:
 
 ---
 
-### 🔑 Key Points
-- Notice the closing triple backticks <br>
-  ```bash … code … ```
-  ``` ← this ends the block
-- After that, the Replit section is **outside** the code block, so it renders as Markdown/HTML, not as code.  
+### 🔑 Key Things
+- The **first triple backticks** open the bash code block.  
+- The **second triple backticks** (on their own line) close it.  
+- The Replit section is now *outside* that block, so the badge renders properly.
 
 ---
 
-Once you paste this and commit, you should see the purple **“Run on Replit”** badge show up.  
+👉 Copy this block exactly, replace your old one, commit, and refresh.  
+This time, you should see the purple **Run on Replit** badge appear.  
 
-👉 Do you want me to clean up your entire README (with sections, badges, and demo links all fixed) so you just paste it in once and be done?
+Do you want me to re-write your **entire README.md** with this fix applied (so you just paste it once and be done)?
