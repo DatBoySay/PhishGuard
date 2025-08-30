@@ -68,13 +68,3 @@ Run this project instantly in the cloud with one click:
 Or open the live Replit version directly:  
 👉 **[Live Replit Demo](https://replit.com/@savionparks3/PhishGuard)**
 
-yaml
-Copy code
-
----
-
-### 🔑 Key Thing
-- The important line is this one:
-
-Copy code
-
