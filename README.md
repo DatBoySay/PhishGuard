@@ -43,18 +43,24 @@ pip install -r requirements.txt
 python main.py
 
 
+▶️ Try it on Replit
 
-**Important:**
-- The closing triple backticks line must be exactly ` ``` ` on its own line—**no leading spaces**.
-- The Replit lines must **not** start with spaces.
+Run this project instantly in the cloud with one click:
 
-### 2) If it still won’t render, use HTML (bypasses Markdown quirks)
-Paste this (no indentation):
+Or open the live Replit version directly:
+👉 Live Replit Demo
 
-```html
-<h2>▶️ Try it on Replit</h2>
-<p>Run this project instantly in the cloud with one click:</p>
-<a href="https://replit.com/github/DatBoySay/PhishGuard">
-  <img alt="Run on Replit" src="https://replit.com/badge/github/DatBoySay/PhishGuard" />
-</a>
-<p>Or open the live Replit version directly: <a href="https://replit.com/@savionparks3/PhishGuard"><strong>Live Replit Demo</strong></a></p>
+
+---
+
+### 🔑 Key Points
+- Notice the closing triple backticks <br>
+  ```bash … code … ```
+  ``` ← this ends the block
+- After that, the Replit section is **outside** the code block, so it renders as Markdown/HTML, not as code.  
+
+---
+
+Once you paste this and commit, you should see the purple **“Run on Replit”** badge show up.  
+
+👉 Do you want me to clean up your entire README (with sections, badges, and demo links all fixed) so you just paste it in once and be done?
