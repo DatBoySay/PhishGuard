@@ -25,11 +25,11 @@ It combines machine learning (TF-IDF + Logistic Regression) with classic securit
 
 ---
 
-## 📦 Installation & Usage
+## 📦 Installation & Usage (Run Locally)
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/PhishGuard.git
+git clone https://github.com/DatBoySay/PhishGuard.git
 cd PhishGuard
 
 # (Optional) Create a virtual environment
@@ -42,3 +42,6 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
+## ▶️ Try it on Replit
+[![Run on Repl.it](https://repl.it/badge/github/DatBoySay/PhishGuard)](https://repl.it/github/DatBoySay/PhishGuard)
+
