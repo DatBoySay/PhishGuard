@@ -44,6 +44,12 @@ python main.py
 
 
 
+**Important:**
+- The closing triple backticks line must be exactly ` ``` ` on its own line—**no leading spaces**.
+- The Replit lines must **not** start with spaces.
+
+### 2) If it still won’t render, use HTML (bypasses Markdown quirks)
+Paste this (no indentation):
 
 ```html
 <h2>▶️ Try it on Replit</h2>
@@ -52,4 +58,3 @@ python main.py
   <img alt="Run on Replit" src="https://replit.com/badge/github/DatBoySay/PhishGuard" />
 </a>
 <p>Or open the live Replit version directly: <a href="https://replit.com/@savionparks3/PhishGuard"><strong>Live Replit Demo</strong></a></p>
-
