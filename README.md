@@ -60,7 +60,3 @@ Or open the live Replit version directly:
 
 ---
 
-👉 Copy this block exactly, replace your old one, commit, and refresh.  
-This time, you should see the purple **Run on Replit** badge appear.  
-
-Do you want me to re-write your **entire README.md** with this fix applied (so you just paste it once and be done)?
